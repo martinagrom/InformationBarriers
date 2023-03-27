@@ -6,9 +6,9 @@ Information Barriers can be used in scenarios such as preventing communication b
 
 The GitHub repository provides a guide on how to implement and configure Microsoft 365 Information Barriers using PowerShell commands and roles. The presentation in combination with the session explains the concept of Information Barriers and the different scenarios where they can be applied, such as in legal or compliance matters making it easier for administrators to deploy this feature across their organization.
 
-## Presentation
+## Microsoft 365 Information Barriers.pdf
 
-coming soon
+The presentation from the session.
 
 ## 1-Install-requirements.ps1
 
